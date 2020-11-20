@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "static/css/main.c2c3c2ac.chunk.css",
-    "main.js": "static/js/main.8f4cf4fb.chunk.js",
-    "main.js.map": "static/js/main.8f4cf4fb.chunk.js.map",
-    "runtime-main.js": "static/js/runtime-main.fe8d7a4a.js",
-    "runtime-main.js.map": "static/js/runtime-main.fe8d7a4a.js.map",
-    "static/js/2.e6443c0c.chunk.js": "static/js/2.e6443c0c.chunk.js",
-    "static/js/2.e6443c0c.chunk.js.map": "static/js/2.e6443c0c.chunk.js.map",
-    "index.html": "index.html",
-    "static/css/main.c2c3c2ac.chunk.css.map": "static/css/main.c2c3c2ac.chunk.css.map",
-    "static/js/2.e6443c0c.chunk.js.LICENSE.txt": "static/js/2.e6443c0c.chunk.js.LICENSE.txt",
-    "static/media/app.scss": "static/media/suecaslab-medium.e3b0a407.woff2"
+    "main.css": "/la-nacion-demo/static/css/main.4445a138.chunk.css",
+    "main.js": "/la-nacion-demo/static/js/main.8f4cf4fb.chunk.js",
+    "main.js.map": "/la-nacion-demo/static/js/main.8f4cf4fb.chunk.js.map",
+    "runtime-main.js": "/la-nacion-demo/static/js/runtime-main.d04761a0.js",
+    "runtime-main.js.map": "/la-nacion-demo/static/js/runtime-main.d04761a0.js.map",
+    "static/js/2.e6443c0c.chunk.js": "/la-nacion-demo/static/js/2.e6443c0c.chunk.js",
+    "static/js/2.e6443c0c.chunk.js.map": "/la-nacion-demo/static/js/2.e6443c0c.chunk.js.map",
+    "index.html": "/la-nacion-demo/index.html",
+    "static/css/main.4445a138.chunk.css.map": "/la-nacion-demo/static/css/main.4445a138.chunk.css.map",
+    "static/js/2.e6443c0c.chunk.js.LICENSE.txt": "/la-nacion-demo/static/js/2.e6443c0c.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/la-nacion-demo/static/media/suecaslab-medium.e3b0a407.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe8d7a4a.js",
+    "static/js/runtime-main.d04761a0.js",
     "static/js/2.e6443c0c.chunk.js",
-    "static/css/main.c2c3c2ac.chunk.css",
+    "static/css/main.4445a138.chunk.css",
     "static/js/main.8f4cf4fb.chunk.js"
   ]
 }
