@@ -1,0 +1,22 @@
+.filter {
+    .main-container {
+        display: flex;
+        margin-bottom: 0.6rem;
+        background-color: $white;
+        padding: 1rem;
+        box-sizing: border-box;
+    }
+    .form-element {
+        display: flex;
+        flex-direction: column;
+        margin-right: 2rem;
+        &:last-child {
+            margin-right: 0;
+        }
+        label {
+            font-size: 0.7rem;
+            margin-bottom: 0.3rem;
+            font-weight: bold;
+        }
+    }
+}
